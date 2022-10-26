@@ -1,0 +1,8 @@
+ADMITTED: [PID = 1, Hash = 1, BurstTime = 34, RemainingBurstTime = 34, Locality = 966, Width = 127]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 29, Locality = 966, Width = 127]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 24, Locality = 966, Width = 127]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 19, Locality = 1400, Width = 146]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 14, Locality = 1400, Width = 146]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 9, Locality = 1400, Width = 146]
+READY: [PID = 1, BurstTime = 34, RemainingBurstTime = 4, Locality = 1400, Width = 146]
+TERMINATED: [PID = 1, ResponseTime = 0, TurnAroundTime = 34]

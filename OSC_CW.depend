@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1640900794 source:c:\users\ga401\desktop\osc_cw\osc_cw\coursework.c
+	<stdlib.h>
+	<sys/time.h>
+	"coursework.h"
+	<stdio.h>
+	<pthread.h>
+
+1641272639 c:\users\ga401\desktop\osc_cw\osc_cw\coursework.h
+	<sys/time.h>
+	<math.h>
+	<pthread.h>
+
+1640900783 source:c:\users\ga401\desktop\osc_cw\osc_cw\linkedlist.c
+	<stdlib.h>
+	"linkedlist.h"
+	<pthread.h>
+
+1640898782 c:\users\ga401\desktop\osc_cw\osc_cw\linkedlist.h
+
+1641010054 source:c:\users\ga401\desktop\osc_cw\osc_cw\simulator1.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	"coursework.h"
+	"linkedlist.h"
+
+1641179212 source:c:\users\ga401\desktop\osc_cw\osc_cw\simulator2.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<semaphore.h>
+	<pthread.h>
+	"coursework.h"
+	"linkedlist.h"
+
+1641225446 source:c:\users\ga401\desktop\osc_cw\osc_cw\simulator3.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<semaphore.h>
+	<pthread.h>
+	"coursework.h"
+	"linkedlist.h"
+
+1641272573 source:c:\users\ga401\desktop\osc_cw\osc_cw\simulator4.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<semaphore.h>
+	<pthread.h>
+	"coursework.h"
+	"linkedlist.h"
+
